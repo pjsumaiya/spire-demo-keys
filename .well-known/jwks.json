@@ -15,6 +15,14 @@
       "alg": "ES256",
       "x": "cQKtdsdO2WEpVtBpuC9-9XBYKee0KZBW-w2Vj800iw4",
       "y": "HnaL5DgHqNOpz0rN71-IUhUD_K0iQUNY7zaDsNPgioc"
+    },
+    {
+      "kty": "EC",
+      "kid": "ykOWmqXAJ0ddFPniV5Wb1D6l4y29zkCY",
+      "crv": "P-256",
+      "alg": "ES256",
+      "x": "OMo0OEwI8vBJpVyU04b3bCN06z2m9q6Gq4dnyW5QYr0",
+      "y": "Lq831NHOAVhn3Sf1NWfsQyZ8p9frcO9D0v8_e6llaVg"
     }
   ]
 }
